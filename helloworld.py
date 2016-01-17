@@ -1,9 +1,9 @@
-Hello World!
+# Said Moussadeq.
 
-Choose a language and I’ll greet you in that language!
- 1. Spanish
- 2. French
- 3. German
-
-2
-Bonjour le monde
+print(‘Hello World!’)
+print(‘Choose a language and I'll greet you in that language!’)
+print(‘1. Spanish’)
+print(‘2. French’)
+print(‘3. German’)
+print(‘2’)
+print(‘Bonjour le monde’)
