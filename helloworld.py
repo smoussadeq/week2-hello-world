@@ -1,10 +1,1 @@
-# Said Moussadeq.
-
-print(‘Hello World!’)
-print(‘Choose a language and I'll greet you in that language!’)
-print(‘1. Spanish’)
-print(‘2. French’)
-print(‘3. German’)
-
-2
-print(‘Bonjour le monde’)
+# Said Moussadeq.print(‘Hello World!’)print(‘Choose a language and I'll greet you in that language!’)print(‘1. Spanish’)print(‘2. French’)print(‘3. German’)chosenLanguage = input()if chosenLanguage == 2:   print(‘Bonjour le monde’)
